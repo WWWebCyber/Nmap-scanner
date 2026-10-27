@@ -13,7 +13,7 @@
 
 ## Использование
 
-python3 nmap_scanner.py <host> <порты>
+python3 Nmap_Port_Scanner.py <host> <порты>
 
 ## Пример:
 
